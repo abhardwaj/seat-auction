@@ -4,12 +4,14 @@ import json
 
 from bs4 import BeautifulSoup
 
+
 '''
 @author: anant bhardwaj
 @date: Jun 30, 2014
 
 Extract All Pune University Engineering College Details
 ''' 
+
 
 def extract():
   f = open('out.txt', 'a')
@@ -38,16 +40,15 @@ def extract():
           'span', {'id': 'ctl00_rightContainer_ContentBox1_lblEMailAddress'}
         ).find(text=True)
       item = [sr_no, institute_code, college_name, email, name]
-      row_text = '\t'. join(item)
-      f.write(row_text+'\n')
+      row_text = '\t'.join(item) + '\n'
+      print row_text
+      f.write(row_text)
     except Exception, e:
       pass
-  
 
 
 def main(): 
   extract()
-
 
 
 if __name__ == "__main__":

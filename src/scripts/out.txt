@@ -1,0 +1,35 @@
+1	1002	Government College of Engineering, Amravati	principal@gcoea.ac.in	Dr.W.Z.Gandhare
+2	1003	Government College of Pharmacy, Amravati	gcopamt@gmail.com	Dr. V.K. Mourya
+3	1005	Department of Computer Science, SGB Amravati University, Amravati	reg@sgbau.ac.in	Dr.V.M.Thankare, H.O.D. 
+4	1006	Government Polytechnic, Murtijapur	principalgpmzr@rediffmail.com	S. R. Thute
+5	1007	Shree Shivaji Education Society's Dr. Panjabrao Deshmukh Polytechnic, Amravati	principaldrpdpoly@rediff.com	SHRI.P.V.DESHMUKH
+6	1008	Government Polytechnic, Amravati	gpamravati@rediffmail.com	Prof. D.N.SHINGADE
+7	1009	Government Polytechnic, Khamgaon	gpolykhamgaon@rediffmail.com	Prof. A.V.Udasi
+8	1010	Government Polytechnic, Washim	gpwashim@rediffmail.com	Mr. P.B.Uttarwar
+9	1011	Government Residential Women's Polytechnic, Yavatmal	grwpy@yahoo.co.in	B. K. Kumbhar
+10	1012	Government Polytechnic, Yavatmal	gpyavatmal_yvt@dataone.in	Mr. R.P.MOGRE
+11	1014	Geetadevi Khandelwal Institute of Pharmacy, Akola	gkipakola@rediffmail.com	RAJENDRA VITTHALRAO PATIL
+12	1101	Shri Sant Gajanan Maharaj College of Engineering,Shegaon	principal@ssgmce.ac.in	Dr. S. B. Somani
+13	1102	Vidya Bharati Mahavidyalaya Department of Research and PG Studies in Science & Management, Amravati	director@vbirsm.org	Dr. F. C. Raghuwanshi
+14	1103	Maratha Shikshan Sanstha, P.R. Patil College of Management, Amravati	director_prpce@rediffmail.com	Dr. Dinkar G. Wakade(I/C)
+15	1105	Prof. Ram Meghe Institute of Technology & Research, Amravati	principal@mitra.ac.in	Prof. A. P. Bodkhe
+16	1106	Hari Kishan Jaju Education Sanstha's,College of Management & Computer Science, Yavatmal	aashishji@rediffmail.com	Dr. L. B. Uttarwar
+17	1107	P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati	prpotepatilcollege@gmail.com	Dr. Mrs. S. D. Wakde
+18	1108	Maratha Shikshan Sanstha, P.R. Patil College of Engineering & Technology, Amravati	director_prpce@rediffmail.com	Dr. D.G. Wakde
+19	1109	G.H. Raisoni Institute of Management Studies, Anjangaon, Bari Road,Amravati	ghrimsamr@raisoni.net	Dr.P.N.Mandaogade
+20	1110	Dr. Babasaheb Nandurkar College of Physical Education , Yavatmal	nandurkar_college@rediffmail.com	Dr. Prakash Nandurkar
+21	1111	Shree Hanuman Vyayam Prasark Mandal's P.G. Department  of Computer Science & Technology, Amravati	coco_mca@hvpm.org	Dr. S. C. Sharma
+22	1112	P.R.Patil College of Management, Amravati 	mss.amt@gmail.com	Dr. D. G. Wakde
+23	1113	Sadhana Shikshan Mandal, Saraswati College, Shegaon	saraswati.edu.shg@gmail.com	Dr. B. H. Pawar 
+24	1114	Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati	sipnaoffice@gmail.com	Dr. Siddharth A. Ladhake
+25	1115	J.S.P Mandal's Sudhakarrao Naik Institute of Pharmacy, Pusad Dist. Yavatmal	dsakarkar@rediffmail.com	Dr.D.M.Sakarkar
+26	1116	Shri Shivaji Education Society's College of Engineering and Technology, Akola	principalcoeta@gmail.com	Prof. Dr. S.K.Deshmukh
+28	1119	Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali	annprincipal55@gmail.com	Dr. Arun N. Nanhai
+29	1120	Jawaharlal Darda Institute of Engineering and Technology, Yavatmal	jdiet_yml@sancharnet.in	Dr. Avinash.W.Kolhatkar
+30	1121	Shri Hanuman Vyayam  Prasarak Mandals College of Engineering & Technology, Amravati	principal@hvpmcoet.in	Dr. A.B.Marathe
+31	1122	Dr. Bhausaheb Nadurkar College of Engineering, Waghapur,Yavatmal	principal@dbncoet.ac.in	Dr. Vithal G. Arajpure
+32	1123	Indira Bahuuddeshiya Shikshan Sanstha, College of Engineering, Ghatkheda, Amravati	principal_coe@rediffmail.com	Dr.S.G.Patil 
+33	1124	G.H. Raisoni college of Engineering & Management, Amravati	prashant.ingole@raisoni.net	Dr. Prashant V. Ingole
+34	1125	Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana	rsc_engg@rediffmail.com	Dr. A.M. Jinturkar
+35	1126	Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati	Principal.kgiet@gmail.com	Dr. S. M. Kherde
+36	1127	Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha Colleg
